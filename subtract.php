@@ -1,3 +1,3 @@
-function minus($x,$y){
+function minusss($x,$y){
 return $x-$y;
 }
